@@ -1,2 +1,0 @@
-# GroceryTracker
-Android application

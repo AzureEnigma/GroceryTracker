@@ -1,4 +1,4 @@
-package app.test.example.dmangin.grocerytracker;
+package app.test.example.dmangin.grocerytracker2;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
